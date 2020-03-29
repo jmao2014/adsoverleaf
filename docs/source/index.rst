@@ -21,7 +21,8 @@ for more details.
 
 Questions and issues
 ====================
-If you have questions or issues, then please report them as an issue here.
+If you have questions or issues, then please report them as an issue
+`here <https://github.com/jmao2014/adsoverleaf/issues>`_.
 
 
 Source code of help pages
