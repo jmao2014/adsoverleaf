@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ADS Lib's documentation!
-===================================
+Welcome to ADS Lib and Overleaf tutorial!
+=========================================
 
-This documentation intends to assist authors in preparing tex files on
+This tutorial intends to assist authors in preparing tex files on
 Overleaf with reference bibliography items managed via the ADS personal
 library. Please see the two threads :ref:`sec:ads` and :ref:`sec:overleaf`
 for more details.
