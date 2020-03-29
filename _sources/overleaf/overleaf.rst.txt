@@ -5,8 +5,6 @@ Overleaf bibliography
 
 .. highlight:: none
 
-*By: Junjie Mao*
-
 Goal
 ----
 
