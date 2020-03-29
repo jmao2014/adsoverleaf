@@ -5,8 +5,6 @@ ADS Library
 
 .. highlight:: none
 
-*By: Junjie Mao*
-
 Goal
 ----
 
