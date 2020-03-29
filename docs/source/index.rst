@@ -6,7 +6,7 @@
 Welcome to ADS Lib and Overleaf tutorial!
 =========================================
 
-*By: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph>`*
+By: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph>`_
 
 This tutorial intends to assist authors in preparing tex files on
 Overleaf with reference bibliography items managed via the ADS personal
