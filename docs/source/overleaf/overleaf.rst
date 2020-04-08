@@ -32,7 +32,7 @@ this project_A.
 
 Replace the content of the tex file
 ----------------------------------
-Next, we replace the content of the tex file with the :download:`following <main.tex>`.
+Next, we replace the content of the tex file with the example (:download:`download <main.tex>`).
 
 .. note:: In this example, the references are in the format of sorted numbers,
    while the format of author-year is more common for A&A, ApJ, MNRAS.
