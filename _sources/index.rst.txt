@@ -31,12 +31,10 @@ Source code of the tutorial
 ===========================
 These tutorial pages are written in restructured text (rst) and they are
 built using Sphinx. Please use the latest version of Sphinx for optimal
-performance. To build the manual from source, the command make html should
-be enough to build the html pages in the build directory.
+performance. To build the manual from source, the command "make html"
+should be enough to build the html pages in the build directory.
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
